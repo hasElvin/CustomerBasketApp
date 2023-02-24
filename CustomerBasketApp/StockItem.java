@@ -1,4 +1,4 @@
-package git rem;
+package CustomerBasketApp;
 
 public class StockItem implements Comparable<StockItem> {
     private final String name;
